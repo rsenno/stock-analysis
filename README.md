@@ -24,4 +24,4 @@ Although I am perfectly capable of writing up a report, given the schedule, I th
 
 ![Screenshot of execution result on refactored code for 2018 dataset](Resources/2018_Refactored_Screenshot_2021-05-09_112815.png)
 
-
+By visual inspection, the execution time was reduced to better than one fourth the time (approaching one fifth the time) for the original code. The increase in performance seems well worth the tradeoff of slightly increased code complexity. 
